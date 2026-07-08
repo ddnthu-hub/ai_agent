@@ -364,8 +364,6 @@ Trong tương lai, hệ thống có thể mở rộng theo các hướng:
 
 ## Tác giả
 
-Họ và tên: Võ Thị Thư
+Họ và tên: Võ Thị Vân Thư
 
-Đề tài:
-
-**Hệ thống hỗ trợ ra quyết định khuyến nghị đầu tư AI Agent trong lĩnh vực Khoa học Máy tính**
+Đề tài: **Hệ thống hỗ trợ ra quyết định khuyến nghị đầu tư AI Agent trong lĩnh vực Khoa học Máy tính**
